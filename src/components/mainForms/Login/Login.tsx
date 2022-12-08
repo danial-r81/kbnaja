@@ -4,8 +4,6 @@ import { Link } from 'react-router-dom';
 import FormContainer from '../formContainer/Form';
 import Input, { Button } from '../formContainer/Input';
 
-import '../../../App.css';
-
 const Login = () => {
    return (
       <FormContainer
